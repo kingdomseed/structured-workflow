@@ -48,9 +48,9 @@ through its agreed artifact and verification; do not stop at the first draft
 unless review at that point was requested. Ask when a missing human decision
 changes the direction, not for each reversible step within the approved work.
 
-Ask once whether subagents may be used for bounded independent work. Reuse that
-permission while it remains in scope; combine their findings and resolve conflicts
-in the main collaboration.
+Use subagents for bounded independent work when the active host and user
+instructions allow it. Respect any restriction already given; combine their
+findings and resolve conflicts in the main collaboration.
 
 ## Evidence and durability
 
